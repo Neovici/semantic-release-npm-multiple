@@ -1,0 +1,2 @@
+npx lint-staged
+NODE_OPTIONS=--experimental-vm-modules npx jest --passWithNoTests -o
